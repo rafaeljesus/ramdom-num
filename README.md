@@ -3,12 +3,20 @@
 * Print the numbers from 1 to 10 in random order to the terminal.
 
 
-## Installation
+## Usage
+
 ```bash
+make all
 ```
 
-## Usage
-TODO
+`make run` for successive calls
+
+### Docker
+```bash
+make all-docker
+```
+
+`make run-docker` for successive calls
 
 ---
 
